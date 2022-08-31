@@ -1,4 +1,4 @@
-# Boosts
+# boosts
 Discord Boosts Shop
 
 
